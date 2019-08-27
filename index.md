@@ -1,9 +1,9 @@
 # Jack Lawrence's First CS193 Homework
-Favorite things:
+Favorite things:"/n"
 -Super cool teachers
 -Learning to get better at Computer Science
 -Nice classmates
--
+
 
 ## Welcome to GitHub Pages
 
