@@ -1,7 +1,10 @@
 # Jack Lawrence's First CS193 Homework
-Favorite things:"/n"
+Favorite things:
+
 -Super cool teachers
+
 -Learning to get better at Computer Science
+
 -Nice classmates
 
 
